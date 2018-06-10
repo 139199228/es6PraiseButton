@@ -1,0 +1,30 @@
+{
+  "name": "es6praisebutton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unit": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/139199228/es6PraiseButton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/139199228/es6PraiseButton/issues"
+  },
+  "homepage": "https://github.com/139199228/es6PraiseButton#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^1.1.2",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "dependencies": {}
+}
